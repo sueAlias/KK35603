@@ -10,7 +10,8 @@ $c_sv = $_POST["co_supervisor"];
 $c_email = $_POST["co_email"];
 $c_date = $_POST["co_date"];
 
-echo $action."<br>";
+//echo $action."<br>";
+echo htmlspecialchars($action)."<br>";
 echo $c_name."<br>";
 echo $c_state."<br>";
 echo $c_add."<br>";
