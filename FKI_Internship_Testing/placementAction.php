@@ -1,6 +1,6 @@
 <?php
 session_start();
-include("config.php");
+include "config.php";
 $action = $_GET["action"];
 
 $c_name = $_POST["co_name"];
