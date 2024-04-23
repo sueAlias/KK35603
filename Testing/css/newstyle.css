@@ -1,0 +1,18 @@
+body { background-color: #f1f1f1;
+color: #191970;
+font-family: "Raleway", sans-serif
+}
+h1 {background-color: #616161;
+color: #E6E6FA;
+line-height: 200%;
+font-family: "Raleway", sans-serif
+}
+h2 {background-color: #9e9e9e;
+color: #E6E6FA;
+text-align: center;
+font-family: "Raleway", sans-serif
+}
+p {
+font-size: 12pt; text-indent: 3em;
+color: #000000;
+}
