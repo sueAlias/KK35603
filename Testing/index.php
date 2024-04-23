@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,  initial-scale=1.0">
@@ -29,31 +29,36 @@ function myFunction() {
 			<img class="image" src="img/photo.png">
 		</div>
 		<div class="col-right">
-			<table border="1" width="100%">
+			<table border="1">
 				<tr>
-					<td width="164">Name</td>
+					<th>&nbsp;</th>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>Name</td>
 					<td>My name is here...&nbsp;&nbsp;&nbsp;...</td>
 				</tr>
 				<tr>
-					<td width="164">Matric No.</td>
+					<td>Matric No.</td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td width="164">Email</td>
+					<td>Email</td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td width="164">Program</td>
+					<td>Program</td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
-					<td width="164">Mentor Name</td>
+					<td>Mentor Name</td>
 					<td>&nbsp;</td>
 				</tr>
 			</table>
 			<p>My Study Motto</p>
-			<table border="1" width="100%">
+			<table border="1">
 				<tr>
+					<th>&nbsp;</th>
 					<td>&nbsp;</td>
 				</tr>
 			</table>
