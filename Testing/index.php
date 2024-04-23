@@ -29,13 +29,9 @@ function myFunction() {
 			<img class="image" src="img/photo.png">
 		</div>
 		<div class="col-right">
-			<table border="1">
+			<table border="1">				
 				<tr>
-					<th>&nbsp;</th>
-					<td>&nbsp;</td>
-				</tr>
-				<tr>
-					<td>Name</td>
+					<th id="studName">Name</td>
 					<td>My name is here...&nbsp;&nbsp;&nbsp;...</td>
 				</tr>
 				<tr>
@@ -58,7 +54,7 @@ function myFunction() {
 			<p>My Study Motto</p>
 			<table border="1">
 				<tr>
-					<th>&nbsp;</th>
+					<th id="motto">&nbsp;</th>
 					<td>&nbsp;</td>
 				</tr>
 			</table>
