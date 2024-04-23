@@ -26,7 +26,7 @@ function myFunction() {
 
     <div class="row">
 		<div class="col-left">
-			<img class="image" src="img/photo.png">
+			<img class="image" src="img/photo.png" alt="avatar">
 		</div>
 		<div class="col-right">
 			<table border="1">				
