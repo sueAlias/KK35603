@@ -1,8 +1,8 @@
 <?php
 session_start();
-include "config.php";
-$action = $_GET["action"];
+include_once "config.php";
 
+$action = $_GET["action"];
 $c_name = $_POST["co_name"];
 $c_state = $_POST["co_state"];
 $c_add = $_POST["co_address"];
