@@ -29,7 +29,7 @@ function myFunction() {
 			<img class="image" src="img/photo.png" alt="avatar">
 		</div>
 		<div class="col-right">
-			<table border="1">			
+			<table border="1">	
 				<tr>
 					<th id="studName">Name</td>
 					<td>My name is here...&nbsp;&nbsp;&nbsp;...</td>
